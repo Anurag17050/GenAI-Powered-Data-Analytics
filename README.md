@@ -1,33 +1,57 @@
-# GenAI-Powered-Data-Analytics
-# GenAI Data Analytics – Tata iQ (Job Simulation via Forage)
+Tata Group Data Analytics Job Simulation – Forage (June 2025)
+====================================================================
 
-This repository contains my work from the **GenAI-powered Data Analytics job simulation** offered by **Tata iQ** in collaboration with **Forage**.
+Overview:
+---------
+This repository contains my completed work for the Tata Group Data Analytics Virtual Experience Program offered through Forage in June 2025. The simulation aimed to provide hands-on experience with data analysis, AI strategy, and ethical implementation within a financial services context, specifically for Tata iQ and its client, Geldium.
 
-## 📌 Overview
+Program Objective:
+------------------
+To simulate the role of a data analytics associate working on an AI-powered credit risk and collections strategy for Geldium. The focus was on analyzing data quality, proposing a predictive modeling framework, communicating business recommendations, and designing an autonomous and ethical AI system.
 
-The project simulates a real-world analytics challenge faced by the Financial Services team at Tata iQ. It focuses on using **Generative AI tools** to assess data quality, identify risks, and recommend strategies using structured insights.
+Completed Tasks:
+----------------
+1. **Exploratory Data Analysis (EDA):**
+   - Conducted in-depth data quality assessment using GenAI tools.
+   - Identified key issues such as missing data, inconsistencies, and early indicators of customer delinquency.
+   - Proposed appropriate data handling strategies (e.g., imputation, removal, synthetic data generation).
 
-## 🧠 Objectives
+2. **Predictive Modeling Strategy:**
+   - Outlined a no-code predictive modeling framework using logistic regression.
+   - Selected top 5 input features (e.g., credit utilization, income, past delinquencies).
+   - Justified model choice with considerations of interpretability and compliance.
+   - Developed an evaluation plan including accuracy, F1-score, AUC, and fairness checks.
 
-- Conduct Exploratory Data Analysis (EDA) using AI-powered tools.
-- Identify risk indicators within financial datasets.
-- Develop and justify a **no-code predictive modeling framework**.
-- Present insights in a business-contextual format.
+3. **Stakeholder Report:**
+   - Communicated insights to Geldium’s Head of Collections.
+   - Highlighted top 3 risk indicators and segmented high-risk customers.
+   - Delivered SMART business recommendations with supporting rationale.
+   - Addressed ethical concerns including fairness, bias mitigation, and explainability.
 
-## ⚙️ Skills & Tools Applied
+4. **AI Collections System Concept:**
+   - Designed a high-level autonomous AI-powered collections system.
+   - Illustrated how the system processes data, makes decisions, and learns over time.
+   - Defined agentic AI roles and responsible AI guardrails (fairness, explainability, compliance).
+   - Outlined expected business impact including reduced delinquency, cost savings, and improved customer experience.
 
-- Generative AI for data interpretation
-- Exploratory Data Analysis (EDA)
-- Risk pattern identification
-- No-code predictive modeling
-- Insight-driven strategy proposal
+Tools Used:
+-----------
+- Forage Simulation Platform
+- GenAI (ChatGPT, Gemini, DeepSeek)
+- Microsoft Word & PowerPoint
+- Prompt engineering techniques for structured EDA and modeling
 
-## 📝 Key Deliverables
+Learning Outcomes:
+------------------
+✔ Strengthened practical understanding of real-world data analysis workflows.  
+✔ Applied ethical AI frameworks in decision-making and system design.  
+✔ Developed communication skills for stakeholder reporting and executive-level presentations.  
+✔ Gained exposure to predictive modeling concepts and evaluation techniques in financial services.
 
-- EDA report summarizing data quality and anomalies.
-- Identified key risk indicators linked to financial behavior.
-- Proposed a no-code AI model for forecasting based on risk signals.
-- Strategic recommendations for the FS domain team.
+License:
+--------
+This repository is part of an educational simulation and is for personal showcase only. No proprietary data or confidential client information is included.
+
 
 ## 📁 Note
 
