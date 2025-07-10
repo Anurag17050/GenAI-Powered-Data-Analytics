@@ -15,24 +15,28 @@ Completed Tasks:
    - Conducted in-depth data quality assessment using GenAI tools.
    - Identified key issues such as missing data, inconsistencies, and early indicators of customer delinquency.
    - Proposed appropriate data handling strategies (e.g., imputation, removal, synthetic data generation).
+   - [Task-1](https://drive.google.com/file/d/1M4KNxF7ChnU3tk8kpUIVhi55uWx2EUuy/view?usp=sharing)
 
 2. **Predictive Modeling Strategy:**
    - Outlined a no-code predictive modeling framework using logistic regression.
    - Selected top 5 input features (e.g., credit utilization, income, past delinquencies).
    - Justified model choice with considerations of interpretability and compliance.
    - Developed an evaluation plan including accuracy, F1-score, AUC, and fairness checks.
+   - [Task-2](https://docs.google.com/document/d/1OWVSABssIMji5TI155FouxF8FkyP9PNy/edit?usp=sharing&ouid=109346915235299844519&rtpof=true&sd=true)
 
 3. **Stakeholder Report:**
    - Communicated insights to Geldium’s Head of Collections.
    - Highlighted top 3 risk indicators and segmented high-risk customers.
    - Delivered SMART business recommendations with supporting rationale.
    - Addressed ethical concerns including fairness, bias mitigation, and explainability.
+   - [Task-3](https://docs.google.com/document/d/1JByxNG5lMfJKEkUJqiydTsSvj2E6USPN/edit?usp=sharing&ouid=109346915235299844519&rtpof=true&sd=true)
 
 4. **AI Collections System Concept:**
    - Designed a high-level autonomous AI-powered collections system.
    - Illustrated how the system processes data, makes decisions, and learns over time.
    - Defined agentic AI roles and responsible AI guardrails (fairness, explainability, compliance).
    - Outlined expected business impact including reduced delinquency, cost savings, and improved customer experience.
+   - [Task-4](https://docs.google.com/presentation/d/1MmtCS1bbhF3DJFQGLP6GHEkU0otjYyGi/edit?usp=sharing&ouid=109346915235299844519&rtpof=true&sd=true)
 
 Tools Used:
 -----------
